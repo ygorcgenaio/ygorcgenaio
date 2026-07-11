@@ -1,91 +1,114 @@
-# Ygor Carneiro 👋
+<h1 align="center">Olá! Eu sou Ygor Carneiro 👋</h1>
 
-🎓 Estudante de Ciência da Computação na Universidade Federal Fluminense (UFF).
-
-Atualmente direciono meus estudos para desenvolvimento de software, com foco em aplicações web utilizando Java, Spring Boot e JavaScript.
-
-Tenho interesse em desenvolvimento back-end, arquitetura de software e construção de sistemas.
+<p align="center">
+  <b>Estudante de Ciência da Computação • UFF</b><br>
+  Desenvolvedor Back-end em formação | Java • Spring Boot • JavaScript
+</p>
 
 ---
 
-## 🚀 Tecnologias
+## 👨‍💻 Sobre mim
 
-### Back-end
+Sou estudante de Ciência da Computação na **Universidade Federal Fluminense (UFF)** e atualmente direciono meus estudos para o desenvolvimento de software, com foco em aplicações web utilizando **Java**, **Spring Boot** e **JavaScript**.
 
-- Java
-- Spring Boot (em aprendizado)
-- PHP
-- Python
-- C
+Tenho direcionado meus estudos para desenvolvimento Back-end utilizando Java e Spring Boot, buscando construir aplicações escaláveis e bem estruturadas.
 
-### Front-end
+Durante a graduação participei do desenvolvimento de projetos acadêmicos e institucionais, incluindo um sistema web para o Centro Acadêmico de Engenharia de Produção e um compilador para a linguagem **COOL**, implementado em C.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- ☕ Java e Spring Boot
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- 🔄 Git e GitHub
+- 📊 Power BI
+
+---
+
+# 🚀 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,php,python,c,mysql,git,github,maven,vscode,idea" />
+</p>
+
+---
+
+# 📌 Projetos em Destaque
+
+### 💼 Sistema do Centro Acadêmico
+
+Sistema web desenvolvido para auxiliar na gestão do Centro Acadêmico de Engenharia de Produção da UFF.
+
+**Tecnologias**
 
 - HTML
 - CSS
 - JavaScript
-
-### Banco de Dados
-
+- PHP
 - MySQL
 
-### Ferramentas
+---
+## 📈 Estatísticas
 
-- Git
-- GitHub
-- Maven
-- Power BI
-- VS Code
-- IntelliJ IDEA
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ygorcgenaio&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorcgenaio&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+### ⚙️ Compilador para Linguagem COOL
+
+Projeto acadêmico desenvolvido em C contendo:
+
+- Análise Léxica
+- Análise Sintática
+- Análise Semântica
+- Geração de Código
 
 ---
 
-## 📌 Projetos em destaque
+### ✅ Sistema Lista de Tarefas
 
-🔹 Sistema do Centro Acadêmico de Engenharia de Produção
-
-Desenvolvimento de um sistema web institucional.
+Aplicação web para gerenciamento de tarefas utilizando tecnologias front-end.
 
 ---
 
-🔹 Compilador para linguagem COOL
+## 📚 Atualmente
 
-Projeto acadêmico desenvolvido em C contemplando análise léxica, sintática, semântica e geração de código.
-
----
-
-🔹 Sistema Lista de Tarefas
-
-Aplicação para gerenciamento de tarefas utilizando tecnologias web.
-
----
-
-Mais projetos em breve...
+- 📖 Estudando Spring Boot
+- 🚀 Desenvolvendo meu Portfólio
+- 💻 Criando projetos completos para Back-end
+- 🎯 Buscando minha primeira oportunidade como Desenvolvedor de Software
 
 ---
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como desenvolvedor de software, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir tecnicamente.
+Meu objetivo é iniciar minha carreira como desenvolvedor de software, contribuindo para projetos reais enquanto continuo evoluindo tecnicamente.
+
+Tenho interesse principalmente em oportunidades envolvendo:
+
+- Desenvolvimento Back-end
+- Desenvolvimento Web
+- APIs REST
+- Sistemas Corporativos
 
 ---
 
 ## 📫 Contato
 
-LinkedIn:
-https://www.linkedin.com/in/ygor-carneiro-genaio-543735238/
+📍 Macaé - RJ
 
-Email:
+📧 **Email**
+
 ygorcgenaio@gmail.com
 
-GitHub:
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/ygor-carneiro-genaio-543735238/
+
+🐙 **GitHub**
+
 https://github.com/ygorcgenaio
-
-
-
-## 💻 Tecnologias
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,php,python,c,mysql,git,github,vscode,idea"/>
-
-</p>
