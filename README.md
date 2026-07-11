@@ -35,9 +35,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 # 📌 Projetos em Destaque
 
-### 💼 Sistema do Centro Acadêmico
-
-Sistema web desenvolvido para auxiliar na gestão do Centro Acadêmico de Engenharia de Produção da UFF.
+...
 
 **Tecnologias**
 
