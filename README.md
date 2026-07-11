@@ -86,7 +86,7 @@ Aplicação web para gerenciamento de tarefas utilizando tecnologias front-end.
 
 ## 🎯 Objetivo
 
-Meu objetivo é iniciar minha carreira como desenvolvedor de software, contribuindo para projetos reais enquanto continuo evoluindo tecnicamente.
+Meu objetivo é iniciar minha carreira como desenvolvedor de software, contribuindo para projetos enquanto continuo evoluindo tecnicamente.
 
 Tenho interesse principalmente em oportunidades envolvendo:
 
