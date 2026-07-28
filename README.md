@@ -21,7 +21,6 @@ Atualmente estou aprofundando meus conhecimentos em:
 - 🌐 Desenvolvimento Web
 - 🗄️ Banco de Dados
 - 🔄 Git e GitHub
-- 📊 Power BI
 
 ---
 
