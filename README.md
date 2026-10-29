@@ -17,24 +17,21 @@ Durante a graduação participei do desenvolvimento de projetos acadêmicos e in
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- ☕ Java e Spring Boot
+- ☕ Java 
 - 🌐 Desenvolvimento Web
 - 🗄️ Banco de Dados
-- 🔄 Git e GitHub
+
 
 ---
 
 # 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,php,python,c,mysql,git,github,maven,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,php,python,c,mysql,vscode" />
 </p>
 
 ---
 
-# 📌 Projetos em Destaque
-
-...
 
 **Tecnologias**
 
@@ -43,6 +40,9 @@ Atualmente estou aprofundando meus conhecimentos em:
 - JavaScript
 - PHP
 - MySQL
+- Python
+- C
+  
 
 ---
 ## 📈 Estatísticas
@@ -66,17 +66,13 @@ Projeto acadêmico desenvolvido em C contendo:
 
 ---
 
-### ✅ Sistema Lista de Tarefas
 
-Aplicação web para gerenciamento de tarefas utilizando tecnologias front-end.
-
----
 
 ## 📚 Atualmente
 
-- 📖 Estudando Spring Boot
+- 📖 Estudando Next.JS
 - 🚀 Desenvolvendo meu Portfólio
-- 💻 Criando projetos completos para Back-end
+- 💻 Criando projetos completos com Back-end
 - 🎯 Buscando minha primeira oportunidade como Desenvolvedor de Software
 
 ---
@@ -89,10 +85,7 @@ Tenho interesse principalmente em oportunidades envolvendo:
 
 - Desenvolvimento Back-end
 - Desenvolvimento Web
-- APIs REST
-- Sistemas Corporativos
 
----
 
 ## 📫 Contato
 
